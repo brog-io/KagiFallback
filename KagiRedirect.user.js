@@ -6,6 +6,8 @@
 // @match        https://kagi.com/*
 // @run-at       document-start
 // @grant        none
+// @downloadURL  https://github.com/brog-io/KagiFallback/raw/refs/heads/main/KagiRedirect.user.js
+// @updateURL    https://github.com/brog-io/KagiFallback/raw/refs/heads/main/KagiRedirect.user.js
 // ==/UserScript==
 
 (function () {
